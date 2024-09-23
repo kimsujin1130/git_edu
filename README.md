@@ -10,3 +10,5 @@
 
 +test  
 *test
+> If you can imagine it, you can achieve it; if you can dream it, you can become it.
+> 끝
